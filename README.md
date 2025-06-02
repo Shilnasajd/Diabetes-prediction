@@ -18,10 +18,14 @@ Generated synthetic dataset with columns:
 3. REST API creation
 
 ## Endpoints
+
+- `swagger` - http://127.0.0.1:8000/docs
+
 - `/health` - API health check
 - `/predict` - POST patient data and get prediction
 - `/features` - Get feature importance from model
 
 ## How to Run
 ```bash
+python generate_dataset.py
 uvicorn app.main:app --reload
