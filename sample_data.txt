@@ -1,0 +1,21 @@
+# diabetic
+----------
+
+{
+  "Pregnancies": 3,
+  "Glucose": 102,
+  "BloodPressure": 61,
+  "BMI": 23.2,
+  "Age": 46
+}
+
+# Non diabetic
+--------------
+
+{
+  "Pregnancies": 6,
+  "Glucose": 81,
+  "BloodPressure": 97,
+  "BMI": 35.0,
+  "Age": 49
+}
